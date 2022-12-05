@@ -1,0 +1,50 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+
+.SearchResult {
+    padding: 15px;
+    border: 1px solid #9c9c9c;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Error{
+    line-height: 2;
+    padding: 15px;
+    width: 100%;
+    border: 1px solid #9c9c9c;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.Error ol li{
+    line-height: 2;
+}
+
+
+#tier-icon {
+    justify-self: left;
+    height: 180px;
+}
+
+.TextInfo {
+    justify-self: right;
+    display: grid;
+    grid-template-columns: 90px 90px;
+    width: 180px;
+    overflow: hidden;
+}
+
+.summonerName {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    overflow: hidden;
+ }
+
+ .spinner{
+    padding: 80px;
+ }
+

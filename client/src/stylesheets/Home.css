@@ -1,0 +1,48 @@
+.home {
+    height: 94vh;
+}
+
+.welcome {
+    background-image: url(../image/arena2.jpeg);
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.welcome h1{
+    font-family: 'Elsie-Regular';
+}
+
+.welcome h1:first-child{
+    color: white;
+    text-shadow: 0 0 10px black;
+    font-size: 120px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.welcome h1:nth-child(2){
+    color: white;
+    text-shadow: 0 0 10px black;
+    font-size: 80px;
+    right: 10px;
+    bottom: 10px;
+    position: absolute;
+    text-align: right;
+}
+
+@media only screen and (max-width: 767px) {
+    /* phones */
+    .welcome h1:first-child{
+        text-shadow: 0 0 10px black;
+        font-size: 80px;
+        padding-top: 20px;
+    }
+    
+    .welcome h1:nth-child(2){
+        text-shadow: 0 0 10px black;
+        font-size: 55px;
+        right: 10px;
+        bottom: 10px;
+    }
+}

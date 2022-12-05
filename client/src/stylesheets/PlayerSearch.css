@@ -1,0 +1,66 @@
+.playersearch{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.playercontent {
+    margin: 0px 80px;
+    padding: 30px;
+    background-color: rgba(241, 241, 241, 0.9);
+}
+
+.playernote{
+    padding: 15px;
+    border: 1px solid #9c9c9c;
+    background-color: rgba(241, 241, 241, 0);
+}
+
+.inputfield {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    border: 1px solid #9c9c9c;
+    align-items: center;
+    padding: 10px;
+}
+
+.inputfield .submit {
+    margin-left: 10px;
+    border: 1px solid #9c9c9c;
+    border-radius: 5px;
+    height: 30px;
+    padding: 5px;
+}
+
+
+.inputfield button:hover {
+    background-color: #9c9c9c;
+    color: rgba(241, 241, 241, 1);
+}
+
+.inputfield input{
+    flex: 1;
+    height: 30px;
+    width: 10px;
+    background-color: rgba(190, 190, 192, 0.649);
+    border-radius: 5px;
+    border: 1px solid #9c9c9c;
+}
+
+.dropdown {
+    margin-left: 10px;
+}
+
+#region{
+    height: 30px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+    /* phones */
+    .playercontent {
+        margin: 0px 20px;
+        padding: 30px;
+        background-color: rgba(241, 241, 241, 0.9);
+    }
+}
