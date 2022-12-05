@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lktfthelper/static/css/main.9e286bc8.css",
-    "main.js": "/lktfthelper/static/js/main.bd40f7d3.js",
+    "main.js": "/lktfthelper/static/js/main.102e9236.js",
     "static/media/tft.jpg": "/lktfthelper/static/media/tft.69daa7705e60a0f9ad41.jpg",
     "static/media/CHALLENGER.jpeg": "/lktfthelper/static/media/CHALLENGER.a5d95838595d2933052f.jpeg",
     "static/media/arena2.jpeg": "/lktfthelper/static/media/arena2.cde94f15e75e40a0cdba.jpeg",
@@ -17,10 +17,10 @@
     "static/media/arena.jpeg": "/lktfthelper/static/media/arena.8180805f0df8b3980635.jpeg",
     "index.html": "/lktfthelper/index.html",
     "main.9e286bc8.css.map": "/lktfthelper/static/css/main.9e286bc8.css.map",
-    "main.bd40f7d3.js.map": "/lktfthelper/static/js/main.bd40f7d3.js.map"
+    "main.102e9236.js.map": "/lktfthelper/static/js/main.102e9236.js.map"
   },
   "entrypoints": [
     "static/css/main.9e286bc8.css",
-    "static/js/main.bd40f7d3.js"
+    "static/js/main.102e9236.js"
   ]
 }
