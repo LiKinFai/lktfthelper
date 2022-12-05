@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lktfthelper/static/css/main.9e286bc8.css",
+    "main.js": "/lktfthelper/static/js/main.bd40f7d3.js",
+    "static/media/tft.jpg": "/lktfthelper/static/media/tft.69daa7705e60a0f9ad41.jpg",
+    "static/media/CHALLENGER.jpeg": "/lktfthelper/static/media/CHALLENGER.a5d95838595d2933052f.jpeg",
+    "static/media/arena2.jpeg": "/lktfthelper/static/media/arena2.cde94f15e75e40a0cdba.jpeg",
+    "static/media/GRANDMASTER.jpeg": "/lktfthelper/static/media/GRANDMASTER.689c66e06d0a16d2e4d3.jpeg",
+    "static/media/SILVER.jpeg": "/lktfthelper/static/media/SILVER.9499d49066db569775c0.jpeg",
+    "static/media/MASTER.jpeg": "/lktfthelper/static/media/MASTER.6e3d2fcd28cb486ddd8b.jpeg",
+    "static/media/GOLD.jpeg": "/lktfthelper/static/media/GOLD.dad8f662b9602a95c02f.jpeg",
+    "static/media/DIAMOND.jpeg": "/lktfthelper/static/media/DIAMOND.011e10a54dcd8c152ed5.jpeg",
+    "static/media/PLATINUM.jpeg": "/lktfthelper/static/media/PLATINUM.b00ec97bb62d76e55817.jpeg",
+    "static/media/BRONZE.jpeg": "/lktfthelper/static/media/BRONZE.1a39e5a225778672169e.jpeg",
+    "static/media/Elsie-Regular.ttf": "/lktfthelper/static/media/Elsie-Regular.4652a91727b9858e1341.ttf",
+    "static/media/IRON.jpeg": "/lktfthelper/static/media/IRON.a786544d566de43905e8.jpeg",
+    "static/media/arena.jpeg": "/lktfthelper/static/media/arena.8180805f0df8b3980635.jpeg",
+    "index.html": "/lktfthelper/index.html",
+    "main.9e286bc8.css.map": "/lktfthelper/static/css/main.9e286bc8.css.map",
+    "main.bd40f7d3.js.map": "/lktfthelper/static/js/main.bd40f7d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e286bc8.css",
+    "static/js/main.bd40f7d3.js"
+  ]
+}
